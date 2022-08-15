@@ -1,0 +1,10 @@
+1. Home page
+2. Topic List
+3. Authentication
+4. Topic details + Comments + Post new Comments
+5. Create new topic
+6. Edit topic
+
+BONUS: 
+* Edit comment
+* User page
